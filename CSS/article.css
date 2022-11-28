@@ -1,0 +1,139 @@
+.body {
+    color: black;
+    max-width: 1000px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    line-height: 1.5;
+    margin: auto;
+    background-color: #e7f0ef;
+}
+
+.header {
+    border: 6px rgb(235, 196, 98);
+    width: auto;
+    height: auto;
+    border-radius: 16px;
+    padding: 20px 30px;
+    outline: 4px rgb(240, 209, 7);
+    font-family: 'Island Moments', cursive;
+    font-size: 40px;
+    box-shadow: 11px 9px 46px 2px rgba(233, 233, 88, 1);
+    text-shadow: -4px 0px 31px rgb(98, 100, 129);
+    text-align: center;
+    background-color: #5fada4;
+}
+
+.sectionHeader {
+    border: 6px rgb(235, 196, 98);
+    border-radius: 16px;
+    padding: 20px 30px;
+    outline: 4px rgb(235, 196, 98);
+    font-family: 'Island Moments', cursive;
+    box-shadow: 11px 9px 46px 2px rgba(233, 233, 88, 1);
+    text-shadow: -4px 0px 31px rgb(98, 100, 129);
+    text-align: center;
+    background-color: #99c9ec;
+    margin: 1, 5;
+}
+
+.sectionHeader__image {
+    height: 200px;
+    width: 300px;
+}
+
+.sectionHeader__link {
+    text-decoration: none;
+    color: rgb(91, 110, 112);
+}
+
+.sectionHeader__naviNP {
+    list-style-type: none;
+}
+
+.sectionHeader__plan {
+    font-family: 'Island Moments', cursive;
+}
+
+.sectionHeader__link--focus {
+    outline: 2px solid currentColor;
+}
+
+.sectionheader__link--hover {
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.button {
+    background: rgb(132, 206, 227);
+    border: 3px #dff60b;
+}
+
+.navigation {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 5%;
+    margin: 20px auto;
+    border: 3px rgba(233, 233, 88, 1);
+    text-align: center;
+    max-width: 600px;
+    font-size: 20px;
+    font-family: 'Island Moments', cursive;
+    font-style: black;
+}
+
+.navigation__listItem {
+    margin: 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+.navigation__listItem--hover{
+    color: #333;
+}
+
+.table {
+    font-family: 'Lato', sans-serif;
+    border-collapse: collapse;
+    margin: auto;
+    width: 100%;
+}
+
+.table__Cell {
+    border: 2px solid rgb(238, 236, 114);
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__Header {
+    background-color: rgb(24, 167, 211);
+}
+
+.table__Row:nth-child(even) {
+    background: #949491;
+}
+
+.table__Row:hover {
+    background: #707270;
+}
+
+.container {
+    overflow-x: auto;
+}
+
+.dark {
+    color: #cef183;
+    background: rgb(5, 5, 5);
+}
+
+.footer {
+    color: rgb(10, 10, 10);
+    border: 6px rgb(235, 196, 98);
+    border-radius: 16px;
+    outline: 4px rgb(235, 196, 98);
+    font-family: 'Island Moments', cursive;
+    box-shadow: 11px 9px 46px 2px rgba(233, 233, 88, 1);
+    text-shadow: -4px 0px 31px rgb(247, 248, 251);
+    text-align: center;
+    background-color: #96c9f2;
+}
