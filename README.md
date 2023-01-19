@@ -1,7 +1,7 @@
-# Karol Kosior - curency-conventer
+# Karol Kosior - homepage Karol... my expeditions
 ## Description
-#### This is my first website page which curency-conventer. You can convert PLN to EURO, GBP and USD.
-### [curency-conventer](https://miasto85.github.io/homepage/)
+#### This is my first website about my travel. This is all information about my compane of travel and about my next plan.
+### [HOMEPAGE](https://miasto85.github.io/homepage/)
 ### Releases
 No releases published
 ### Packages
